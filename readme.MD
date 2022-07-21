@@ -4,4 +4,4 @@
 - 💻 Web Developer
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas
 - 👨 23 anos
-- 📚 Estudando WebDeveloper ###
+- 📚 Estudando Web Developer
